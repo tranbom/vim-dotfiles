@@ -1,1 +1,2 @@
 *.netrwhist
+.vim/after/syntax/*/everforest.vim
